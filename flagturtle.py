@@ -2,6 +2,7 @@ import turtle
 turtle.getscreen().bgcolor("black")
 godard = turtle.Turtle()
 godard.color("white",'brown')
+turtle.title("B-W Indian Flag")
 
 godard.speed(5)
 
